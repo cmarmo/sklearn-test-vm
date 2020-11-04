@@ -8,7 +8,7 @@
 #
 
 # Ubuntu 32 (for Python 3.6)
-FROM 32bit/ubuntu
+FROM quay.io/pypa/manylinux2014_i686
 
 MAINTAINER Chiara Marmo <marmochiaskl@gmail.com>
 
